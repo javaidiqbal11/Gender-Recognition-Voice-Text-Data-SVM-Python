@@ -1,4 +1,4 @@
-## SVM Classifier Using Python
+## Gender Recognition using Voice Text Data with SVM Classifier in Python
 
 This repo is developed to understnad the SVM classifier for binary classifiation and multiple classes classification <br>
 We used Python 3 to use the open source dataset for Gender Recognigtion using voice data saved in textual <br>
