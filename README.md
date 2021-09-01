@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+## SVM Classifier Using Python
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repo is developed to understnad the SVM classifier for binary classifiation and multiple classes classification <br>
+We used Python 3 to use the open source dataset for Gender Recognigtion using voice data saved in textual <br>
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+#### How to execute the code?
+- Use any editor like Pycharm or Jupyter Notebook or Google Collab <br>
+- Open the repo in the editor and execute <br>
+- The required libraries and saved in the requirements.txt <br>
+
+Suggest for more updation in the repository, your contribution will be highly oblighed. 
